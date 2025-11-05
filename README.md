@@ -44,7 +44,7 @@ A suite of **machine learning notebooks** designed for educational purposes. Cov
 - Framework for automating insurance claims adjudication.
 - Enhances accuracy, transparency, and scalability through semantic retrieval and GPT-based decision support.  
 
-Publication: *Open Access on arXiv*
+Publication: *Open Access on ResearchGate*
 
 ---
 
