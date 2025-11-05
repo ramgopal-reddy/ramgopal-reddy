@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm an **AI/ML Researcher** and **Software Developer** based in Hyderabad, India. I'm passionate about leveraging **AI**, **machine learning**, and **modern web technologies** to create innovative solutions and solve complex problems.
 
  **Contact me:**   
-- **Email:** [work@email.com](mailto:work@email.com)  
+- **Email:** [redabothularamgopalreddy@gmail.com](mailto:redabothularamgopalreddy@gmail.com)  
 - **Portfolio Website:** [ramgopalreddy.xyz](https://www.ramgopalreddy.xyz)  
 - **LinkedIn:** [linkedin.com/in/ramgopal-reddy](https://www.linkedin.com/in/ramgopal-reddy)  
 - **GitHub:** [github.com/ramgopal-reddy](https://github.com/ramgopal-reddy)  
