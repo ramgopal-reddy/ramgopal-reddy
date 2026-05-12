@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm an **AI/ML Researcher** and **Software Develop
 
  **Contact me:**   
 - **Email:** [redabothularamgopalreddy@gmail.com](mailto:redabothularamgopalreddy@gmail.com)  
-- **Portfolio Website:** [ramgopalreddy.xyz](https://www.ramgopalreddy.xyz)  
+- **Portfolio Website:** [ramgopalreddy.vercel.app](http://ramgopalreddy.vercel.app/)  
 - **LinkedIn:** [linkedin.com/in/ramgopal-reddy](https://www.linkedin.com/in/ramgopal-reddy)  
 - **GitHub:** [github.com/ramgopal-reddy](https://github.com/ramgopal-reddy)  
 
